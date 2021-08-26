@@ -1,0 +1,28 @@
+nav {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.card-group {
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+ 
+ img {
+  border: 1px solid black;
+ }
+
+ .card-body {
+  border: 1px solid black;
+ }
+
+ .card-footer {
+  border: 1px solid black;
+ }
+
+ .card {
+  padding-left: 10px;
+  padding-right: 10px;
+ }

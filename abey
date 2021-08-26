@@ -1,0 +1,32 @@
+nav {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+div .about{
+   padding-top: 50px;
+   padding-left: 50px;
+}
+
+.about {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  font-family: 'Lobster', cursive;
+  padding-right: 50px;
+}
+
+div .row {
+   text-align: center;
+   padding-top: 20px;
+}
+
+@media screen and (max-width: 576px) {
+   .about {
+      width: 80%;
+   }
+
+   .work {
+      font-size: 10px;
+   }
+}

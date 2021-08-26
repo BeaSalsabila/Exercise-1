@@ -1,0 +1,36 @@
+nav {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+ .view {
+  padding-left: 70px;
+ }
+
+.foto {
+   padding-left: 40px;
+}
+
+ .foto img {
+   width: 250px;
+   border-radius: 50%;
+   height: 250px;
+   margin-top: 40px;
+   box-shadow: 5px 5px 15px 5px #000000
+ }
+
+h4 {
+  padding-top: 20px;
+  font-size: 20px;
+  font-family: fantasy;
+  letter-spacing: 3px;
+ }
+
+h5 {
+  font-size: 15px;
+  font-family: sans-serif;
+ }
+
+ .icons {
+  font-size: 20px;
+ }
